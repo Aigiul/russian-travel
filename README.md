@@ -2,7 +2,7 @@
 
 ### О проекте
 Проект о путешествии по России. Он выполнен после прохождения 3 спринта по макету **Figma**
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на сайт](https://aigiul.github.io/russian-travel/index.html)
 ### При выполнении были использованы навыки, полученные при изучении таких тем:
 * "Адавптивная верстка"
 * "Макет"
